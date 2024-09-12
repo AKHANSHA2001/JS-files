@@ -1,0 +1,7 @@
+#myTable{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  input#myInput {
+    width: 100%;
+}
